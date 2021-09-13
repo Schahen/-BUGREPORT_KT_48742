@@ -1,4 +1,4 @@
 package org.shabunc.bugreport
 
-@kotlin.native.SymbolName("aaa")
+@kotlin.native.SymbolName("bbb")
 private external fun ping()
